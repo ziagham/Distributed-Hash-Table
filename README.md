@@ -5,7 +5,7 @@ Explnation:
 	- This is a Distributed key-value (DHT) store project based on the Chord protocol. 
 	- This system supports Restful architecture as communication betwwen nodes. This means that the nodes are connected to each other by calling the API and exchange json data foramt. 
 	- Each node needs a address and port number to run.
-	- This system uses the SHA1 hashing algorithm as the main hashing algorithm as well in Consistent Hashing.
+	- This system uses the MD5 hashing algorithm as the main hashing algorithm as well in Consistent Hashing.
 	- The current version support dynamic joining and leaving mechanism alongside the simulation crash feature.
 
 Requirements: 

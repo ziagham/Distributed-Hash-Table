@@ -1,11 +1,5 @@
-INF3200: Distributed Systems Fundamentals Mandatory Assignment 2
-UiT the Arctic University of Norway
+Distributed Hash Table (DHT)
 ================================================================
-
-Team members:
-	-Amin Ziagham Ahwazi {azi011@uit.no}
-	-Keerthana Sivakumar {ksi055@uit.no}
-
 Explnation:
 -----------
 	- This is a Distributed key-value (DHT) store project based on the Chord protocol. 

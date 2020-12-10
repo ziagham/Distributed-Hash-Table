@@ -1,10 +1,5 @@
-INF3200: Distributed Systems Fundamentals Mandatory Assignment 1
-UiT the Arctic University of Norway
+Distributed Hash Table
 ================================================================
-
-Team members:
-	-Amin Ziagham Ahwazi {azi011@uit.no}
-	-Keerthana Sivakumar {ksi055@uit.no}
 
 Explnation:
 -----------
